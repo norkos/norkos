@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norkos
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning about microservices and AWS
+- 👀 I’m interested in Python and AWS
+- 🌱 I’m currently learning about microservices
 - 💞️ I’m looking to collaborate on Python open-sourced projects
 - 📫 How to reach me norbert.kosmal@gmail.com
 
