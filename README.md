@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norkos
 - 👀 I’m interested in Architecture and SaaS
-- 🌱 I’m currently learning how to prorotype fast with Cursor
+- 🌱 I’m currently learning how laverage AI ;) 
 - 📫 How to reach me norbert.kosmal@gmail.com
 
 <!---
