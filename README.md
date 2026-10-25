@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @norkos
-- 👀 I’m interested in Architecture and SaaS
-- 🌱 I’m currently learning how laverage AI ;) 
+- 👀 I'm hands-on Engineering Leader
 - 📫 How to reach me norbert.kosmal@gmail.com
 
 <!---
